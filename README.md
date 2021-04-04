@@ -11,7 +11,7 @@ The population lower and upper bounds are designated by _L_ and _U_. We will als
 
 # State Senate
 
-For State Senate, the ideal district population is 81,835. We allow populations between _L_=79,887 and _U_=83,983. 
+For Oklahoma State Senate, the ideal district population is 81,835. We allow populations between _L_=79,887 and _U_=83,983. 
 
 For example, 
 - Payne County (population 81,815) can be its own district
@@ -21,7 +21,7 @@ For example,
 
 # State House
 
-For State House redistricting, the ideal district population is 38,939. We allow populations between _L_=37,966 and _U_=39,912.
+For Oklahoma State House redistricting, the ideal district population is 38,939. We allow populations between _L_=37,966 and _U_=39,912.
 
 For example,
 - Okmulgee County (population 38,749) can be its own district
