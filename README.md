@@ -2,7 +2,7 @@
 
 Python codes for Oklahoma State House Redistricting and Oklahoma State Senate Redistricting. 
 
-# The Task:
+# The Task
 - partition Oklahoma into _k_ districts (where _k_=48 for State Senate and _k_=101 for State House)
 - each district should be contiguous on the map
 - each district's population should be within 5% (+/-2.5%) of the ideal district population.
