@@ -55,12 +55,17 @@ The Step 1 clusters for State Senate and State House are also reproduced below.
 # State Senate Clusters
 
 Cluster rooted at node 0 ( Payne  County ) has total population 81815 and should be split into 1 district(s).
+
 Cluster nodes are [0] which correspond to counties: ['Payne']
+
 Average district in this cluster should have population 81815.0
 ********************************
 Cluster rooted at node 2 ( Delaware  County ) has total population 83477 and should be split into 1 district(s).
+
 Cluster nodes are [2, 36] which correspond to counties: ['Delaware', 'Mayes']
+
 Average district in this cluster should have population 83477.0
+
 ********************************
 Cluster rooted at node 11 ( Choctaw  County ) has total population 82740 and should be split into 1 district(s).
 Cluster nodes are [11, 34, 37, 55] which correspond to counties: ['Choctaw', 'Pushmataha', 'Bryan', 'Latimer']
