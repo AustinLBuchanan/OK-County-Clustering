@@ -40,11 +40,15 @@ We take a two-step approach.
 
 State Senate:
 - [Step 1 code](https://github.com/AustinLBuchanan/OK-County-Clustering/blob/main/OK-State-Senate-County-Clustering-DRA.ipynb)
-- [Step 2 detailed map](https://davesredistricting.org/join/9ff06581-03d0-40b3-9fad-1650c9ed0b6c)
+- [Step 2 map as png](https://github.com/AustinLBuchanan/OK-County-Clustering/blob/main/State-Senate.png)
+- [Step 2 map on DRA](https://davesredistricting.org/join/9ff06581-03d0-40b3-9fad-1650c9ed0b6c)
+- [Step 2 block assignment file](https://github.com/AustinLBuchanan/OK-County-Clustering/blob/main/State-Senate.csv)
 
 State House:
 - [Step 1 code](https://github.com/AustinLBuchanan/OK-County-Clustering/blob/main/OK-State-House-County-Clustering-DRA.ipynb)
-- [Step 2 detailed map on DRA](https://davesredistricting.org/join/d06eedc6-e949-434a-8efc-f948babdcac2)
+- [Step 2 map as png](https://github.com/AustinLBuchanan/OK-County-Clustering/blob/main/State-House.png)
+- [Step 2 map on DRA](https://davesredistricting.org/join/d06eedc6-e949-434a-8efc-f948babdcac2)
+- [Step 2 block assignment file](https://github.com/AustinLBuchanan/OK-County-Clustering/blob/main/State-House.csv)
 
 The Step 1 clusters for State Senate and State House are also reproduced below.
 
