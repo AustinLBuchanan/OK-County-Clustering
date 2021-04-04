@@ -164,7 +164,6 @@ Cluster rooted at node 23 ( Tulsa  County ) has total population 646419 and shou
 Cluster nodes are [23] which correspond to counties: ['Tulsa']
 Average district in this cluster should have population 38024.64705882353
 ********************************
-********************************
 Cluster rooted at node 24 ( Beckham  County ) has total population 39870 and should be split into 1 district(s).
 Cluster nodes are [21, 24, 28, 56] which correspond to counties: ['Roger Mills', 'Beckham', 'Harmon', 'Washita']
 Average district in this cluster should have population 39870.0
